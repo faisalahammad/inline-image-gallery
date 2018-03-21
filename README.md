@@ -4,7 +4,7 @@ There has lots of Image gallery plugin but sometimes those plugins not working w
 No `Javascript` needed, just HTML & CSS will work well.
 
 ## Preview
-Live link at [Codepen](https://codepen.io/faisalahammad/pen/XEMWrN) Or
+Live link at [Codepen](https://codepen.io/faisalahammad/pen/XEMWrN) Or <br>
 ![Inline Image Gallery](https://preview.ibb.co/iE6Fnx/inline_image_gallery.jpg)
 
 
