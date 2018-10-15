@@ -2,7 +2,7 @@
 There has lots of Image gallery plugin but sometimes those plugins not working when you've different size of images and also it's not possible to make same size image. "Inline Image Gallery" plugin will help you to make a inline image gallery when you've same or different size image and even 100 or more images.
 
 No `Javascript` needed, just HTML & CSS will work well.
-
+this thing needs to be updated
 ## Preview
 Live link at [Codepen](https://codepen.io/faisalahammad/pen/XEMWrN) Or <br>
 ![Inline Image Gallery](https://preview.ibb.co/iE6Fnx/inline_image_gallery.jpg)
